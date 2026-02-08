@@ -1,0 +1,4 @@
+BOT_TOKEN = ""
+BRAWL_API_TOKEN = ""
+
+ADMINS = []
